@@ -48,3 +48,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/ai-career-agent.git
 cd ai-career-agent 
+## App Preview

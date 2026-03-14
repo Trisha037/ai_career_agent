@@ -40,6 +40,8 @@ This architecture keeps the application fast and reduces API costs.
 - Matplotlib
 
 ---
+## App Preview
+
 
 ## Installation
 
@@ -47,5 +49,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/ai-career-agent.git
-cd ai-career-agent 
-## App Preview
+cd ai-career-agent
+
+
+
